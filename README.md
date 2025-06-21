@@ -12,7 +12,6 @@ I’m a <strong>second-year B.Tech CSE student at Bennett University</strong> an
 
 </div>
 
----
 
 ### 🛠️ Core Competencies
 
