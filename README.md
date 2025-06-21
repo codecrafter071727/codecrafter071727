@@ -11,8 +11,6 @@ I’m a <span style="font-weight: bold; font-size: 18px;">second-year B.Tech CSE
 
 </div>
 
----
-
 ### 🛠️ Core Competencies
 
 - 🚀 **Full-Stack Development:** MERN Stack, Next.js, RESTful APIs  
