@@ -7,10 +7,7 @@
 ## 💫 About Me
 
 <div align="center" style="font-size: 18px; line-height: 1.8;">
-
-I’m a <strong style="font-size: 19px;">Second-Year B.Tech CSE student at Bennett University</strong> and a passionate <strong style="font-size: 19px;">Full-Stack Developer</strong> with experience building <strong style="font-size: 19px;">robust web and mobile applications</strong>.  
-I specialize in crafting <strong>responsive frontends</strong> using <strong>React</strong> and <strong>Next.js</strong>, building <strong>scalable backends</strong> with <strong>Node.js</strong> & <strong>Express</strong>, and creating <strong>cross-platform apps</strong> with <strong>React Native</strong>.  
-I strive to write <strong>clean, efficient code</strong> and deliver <strong>seamless, reliable digital experiences</strong>.
+I’m a <span style="font-weight: bold; font-size: 18px;">second-year B.Tech CSE student at Bennett University</span> and a passionate <span style="font-weight: bold; font-size: 18px;">Full-Stack Developer</span> with expertise in building <span style="font-weight: bold; font-size: 18px;">robust web and mobile applications</span>. I specialize in developing <span style="font-weight: bold; font-size: 18px;">responsive frontends</span> using <span style="font-weight: bold; font-size: 18px;">React</span> and <span style="font-weight: bold; font-size: 18px;">Next.js</span>, <span style="font-weight: bold; font-size: 18px;">scalable backends</span> with <span style="font-weight: bold; font-size: 18px;">Node.js</span> and <span style="font-weight: bold; font-size: 18px;">Express</span>, and <span style="font-weight: bold; font-size: 18px;">cross-platform mobile apps</span> using <span style="font-weight: bold; font-size: 18px;">React Native</span>. I'm committed to writing <span style="font-weight: bold; font-size: 18px;">clean, efficient code</span> and delivering <span style="font-weight: bold; font-size: 18px;">reliable digital experiences</span>.
 
 </div>
 
