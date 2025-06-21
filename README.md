@@ -6,14 +6,20 @@
 
 ## 💫 About Me
 
-I’m a **second-year B.Tech CSE student at Bennett University** and a passionate **Full-Stack Developer** with expertise in building **robust web and mobile applications**. I specialize in developing **responsive frontends** using **React** and **Next.js**, **scalable backends** with **Node.js** and **Express**, and **cross-platform mobile apps** using **React Native**. I'm committed to writing **clean, efficient code** and delivering **reliable digital experiences**.
+<div style="font-size: 17px; line-height: 1.6;">
+
+I’m a <strong>second-year B.Tech CSE student at Bennett University</strong> and a passionate <strong>Full-Stack Developer</strong> with expertise in building <strong>robust web and mobile applications</strong>. I specialize in developing <strong>responsive frontends</strong> using <strong>React</strong> and <strong>Next.js</strong>, <strong>scalable backends</strong> with <strong>Node.js</strong> and <strong>Express</strong>, and <strong>cross-platform mobile apps</strong> using <strong>React Native</strong>. I'm committed to writing <strong>clean, efficient code</strong> and delivering <strong>reliable digital experiences</strong>.
+
+</div>
+
+---
 
 ### 🛠️ Core Competencies
 
-- 🚀 Experienced in building **full-stack applications** using the **MERN Stack**, **Next.js**, and **REST APIs**
-- 📱 Proficient in **React Native** for developing **high-performance, cross-platform apps**
-- ☁️ Skilled in **cloud platforms**, **CI/CD pipelines**, **Docker**, and **Git-based version control**
-- 💼 Open to **internships**, **freelance opportunities**, and **collaborative software projects**
+- 🚀 Experienced in building **full-stack applications** using the **MERN Stack**, **Next.js**, and **REST APIs**  
+- 📱 Proficient in **React Native** for developing **high-performance, cross-platform apps**  
+- ☁️ Skilled in **cloud platforms**, **CI/CD pipelines**, **Docker**, and **Git-based version control**  
+- 💼 Open to **internships**, **freelance opportunities**, and **collaborative software projects**  
 - 🎯 Focused on building **scalable systems**, writing **maintainable code**, and contributing to impactful **Open Source**
 
 ---
@@ -137,7 +143,7 @@ I’m a **second-year B.Tech CSE student at Bennett University** and a passionat
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codecrafter071727&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+
 ---
 
 ## 🤝 Let's Connect & Collaborate!
@@ -152,7 +158,7 @@ I’m a **second-year B.Tech CSE student at Bennett University** and a passionat
   <a href="https://www.instagram.com/anshul._.x07/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://your-portfolio-link.vercel.app" target="_blank">
+  <a href="https://https://anshulbhathija.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -166,8 +172,9 @@ I’m a **second-year B.Tech CSE student at Bennett University** and a passionat
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7768E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Anshul+👋;Full-Stack+Web+%2B+App+Developer;Open+to+Freelance+%26+Internships;Let's+build+something+awesome+💻" alt="Typing SVG">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6626006/developer.gif" width="500" alt="Developer at work animation">
 </p>
+
 
 
 <p align="center">
