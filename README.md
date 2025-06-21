@@ -2,6 +2,7 @@
 
 #### 💻 Full-Stack Developer | 📱 Mobile App Enthusiast | 🤝 Open to Freelance & Collaborations
 
+---
 
 ## 💫 About Me
 
