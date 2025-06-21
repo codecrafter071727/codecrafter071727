@@ -138,17 +138,33 @@ I’m a **second-year B.Tech CSE student at Bennett University** and a passionat
 ![](https://github-profile-trophy.vercel.app/?username=codecrafter071727&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-## 🌐 Socials
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anshul._.x07/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-bhathija-8229b0301/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshulbhathija1727@gmail.com)
+## 🤝 Let's Connect & Collaborate!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anshul-bhathija-8229b0301/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:anshulbhathija1727@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/anshul._.x07/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://your-portfolio-link.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-> **"Let's build something amazing together — whether it's a project, idea, or just a conversation.  
-> I'm always open to collaborating, learning, and growing with fellow tech enthusiasts!"**
+<p align="center">
+  💻 <i>Building the future, one commit at a time</i> &nbsp;🚀  
+  <br/>
+  🌟 <i>Open for exciting freelance opportunities & tech collaborations</i>
+</p>
 
-Looking forward to connecting with you! 🤝🚀
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github.com/AnshulX07/AnshulX07/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
