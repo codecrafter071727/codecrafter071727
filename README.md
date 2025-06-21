@@ -137,9 +137,18 @@ I’m a **second-year B.Tech CSE student at Bennett University** and a passionat
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codecrafter071727&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+---
+## 🌐 Socials
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anshul._.x07/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-bhathija-8229b0301/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshulbhathija1727@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codecrafter071727&icon=0&color=0)](https://visitcount.itsvg.in)
+
+> **"Let's build something amazing together — whether it's a project, idea, or just a conversation.  
+> I'm always open to collaborating, learning, and growing with fellow tech enthusiasts!"**
+
+Looking forward to connecting with you! 🤝🚀
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
