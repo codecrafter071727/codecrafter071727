@@ -12,9 +12,6 @@ I’m a <strong>second-year B.Tech CSE student at Bennett University</strong> an
 
 </div>
 
---
-
-
 ### 🛠️ Core Competencies
 
 - 🚀 Experienced in building **full-stack applications** using the **MERN Stack**, **Next.js**, and **REST APIs**  
