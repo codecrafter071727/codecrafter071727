@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Avi Srivastava!  
+# 👋 Hello World, I'm Anshul Bhathija!  
 **Full-Stack Developer | Mobile App Developer | Open for Freelance**
 ---
 
