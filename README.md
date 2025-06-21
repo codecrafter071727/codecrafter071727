@@ -1,6 +1,15 @@
-# 👋 Hello, I'm Anshul Bhathija
+<h1 align="center">👋 Hey there, I'm <span style="color:#00bcd4">Anshul Bhathija</span></h1>
 
-#### 💻 Full-Stack Developer | 📱 Mobile App Enthusiast | 🤝 Open to Freelance & Collaborations
+<p align="center">
+  💻 <strong>Full-Stack Web Developer</strong> &nbsp;|&nbsp; 📱 <strong>Mobile App Enthusiast</strong> &nbsp;|&nbsp; 🚀 <strong>Tech Explorer</strong>  
+</p>
+
+<p align="center">
+  🌟 Turning ideas into reality with code — one pixel, one API, and one commit at a time.  
+  <br/>
+  🤝 Open to <strong>freelance gigs</strong>, <strong>internships</strong>, and <strong>collaborations</strong> that push boundaries.
+</p>
+
 
 ---
 
