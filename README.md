@@ -6,13 +6,18 @@
 
 ## 💫 About Me
 
-I’m a **second-year B.Tech CSE student at Bennett University** and a passionate **Full-Stack Developer** with expertise in building **robust web and mobile applications**. I work across the **full development stack** — from designing **responsive frontends** with **React** and **Next.js**, to developing **secure, scalable backends** using **Node.js** and **Express**, and crafting **cross-platform mobile apps** with **React Native**. I’m committed to writing **clean, efficient code** and delivering **seamless digital experiences** that perform reliably at scale.
+I’m a **second-year B.Tech CSE student at Bennett University** and a passionate **Full-Stack Developer** with expertise in building **robust web and mobile applications**. I specialize in developing **responsive frontends** using **React** and **Next.js**, **scalable backends** with **Node.js** and **Express**, and **cross-platform mobile apps** using **React Native**. I'm committed to writing **clean, efficient code** and delivering **reliable digital experiences**.
 
-- 🚀 **Full-Stack Developer** with hands-on experience in building **end-to-end applications** using the **MERN Stack**, **Next.js**, and **RESTful APIs**
-- 📱 Skilled in developing **cross-platform mobile apps** with **React Native**, focusing on **performance**, **usability**, and **real-world deployment**
-- ☁️ Familiar with **cloud platforms**, **CI/CD pipelines**, and **containerization** using **Docker**, along with **version control** via **Git**
-- 💼 Open to **freelance opportunities**, **internships**, and **tech collaborations** in **software development** and **product engineering**
-- 🎯 Driven to create **scalable systems**, write **maintainable code**, and contribute to impactful **Open Source projects**
+### 🛠️ Core Competencies
+
+- 🚀 Experienced in building **full-stack applications** using the **MERN Stack**, **Next.js**, and **REST APIs**
+- 📱 Proficient in **React Native** for developing **high-performance, cross-platform apps**
+- ☁️ Skilled in **cloud platforms**, **CI/CD pipelines**, **Docker**, and **Git-based version control**
+- 💼 Open to **internships**, **freelance opportunities**, and **collaborative software projects**
+- 🎯 Focused on building **scalable systems**, writing **maintainable code**, and contributing to impactful **Open Source**
+
+---
+
 
 <h2 align="center">⚡ Tech Stack I Work With</h2>
 
