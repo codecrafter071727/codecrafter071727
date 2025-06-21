@@ -1,3 +1,7 @@
+# 👋 Hello World, I'm Avi Srivastava!  
+**Full-Stack Developer | Mobile App Developer | Open for Freelance**
+---
+
 ## 💫 About Me
 
 I’m a **second-year B.Tech CSE student at Bennett University** and a passionate **Full-Stack Developer** with expertise in building **robust web and mobile applications**. I work across the **full development stack** — from designing **responsive frontends** with **React** and **Next.js**, to developing **secure, scalable backends** using **Node.js** and **Express**, and crafting **cross-platform mobile apps** with **React Native**. I’m committed to writing **clean, efficient code** and delivering **seamless digital experiences** that perform reliably at scale.
