@@ -96,7 +96,7 @@ I’m a **second-year B.Tech CSE student at Bennett University** and a passionat
 ## 🔥 Featured Projects
 
 ### 🏥 Prescripto – Simplifying Healthcare, Empowering Lives  
-🚀 Live Demo: [https://prescripto.vercel.app](https://prescripto.vercel.app)  
+🚀 Live Demo: [https://prescripto.vercel.app](https://prescripto-full-stack-frontend2.onrender.com/)  
 📖 *"Prescripto is dedicated to connecting patients and healthcare providers through innovation and technology, ensuring convenient access to care and seamless health record management."*  
 ✔️ Book appointments and manage patient-doctor interactions online  
 ✔️ Digitized prescription generation and health history tracking  
@@ -107,17 +107,17 @@ I’m a **second-year B.Tech CSE student at Bennett University** and a passionat
 ---
 
 ### 🚖 Zarva – Redefining Travel Safety  
-🌐 Live Application: [https://zarva.vercel.app](https://zarva.vercel.app)  
+🌐 Live Application: [https://zarva.vercel.app](https://zarva-redefined-travel-safety.vercel.app/)  
 ✔️ Ride booking with safer route suggestions  
 ✔️ Emergency voice commands powered by speech recognition  
 ✔️ SOS system with location tracking and real-time alerts  
 ✔️ Mobile-first design with secure authentication  
-✔️ Tech Stack: React.js, Vite, FastAPI (Python), Firebase, Leaflet.js
+✔️ Tech Stack: React.js, Vite, Appright, twillio, express,node js, typescript 
 
 ---
 
 ### 🍎 Vision Clone – Apple Vision Pro Website UI Replica  
-🌟 Live Preview: [https://vision-clone.vercel.app](https://vision-clone.vercel.app)  
+🌟 Live Preview: [https://vision-clone.vercel.app](https://vision-clone.onrender.com/)  
 📱 A clean and modern **UI clone** of Apple’s Vision Pro product page  
 ✔️ Fully responsive design with Apple-style fluid transitions  
 ✔️ Parallax and scroll-based animations  
