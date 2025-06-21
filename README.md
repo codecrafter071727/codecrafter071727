@@ -6,9 +6,11 @@
 
 ## 💫 About Me
 
-<div style="font-size: 17px; line-height: 1.6;">
+<div align="center" style="font-size: 18px; line-height: 1.8;">
 
-I’m a <strong>second-year B.Tech CSE student at Bennett University</strong> and a passionate <strong>Full-Stack Developer</strong> with expertise in building <strong>robust web and mobile applications</strong>. I specialize in developing <strong>responsive frontends</strong> using <strong>React</strong> and <strong>Next.js</strong>, <strong>scalable backends</strong> with <strong>Node.js</strong> and <strong>Express</strong>, and <strong>cross-platform mobile apps</strong> using <strong>React Native</strong>. I'm committed to writing <strong>clean, efficient code</strong> and delivering <strong>reliable digital experiences</strong>.
+I’m a <strong style="font-size: 19px;">Second-Year B.Tech CSE student at Bennett University</strong> and a passionate <strong style="font-size: 19px;">Full-Stack Developer</strong> with experience building <strong style="font-size: 19px;">robust web and mobile applications</strong>.  
+I specialize in crafting <strong>responsive frontends</strong> using <strong>React</strong> and <strong>Next.js</strong>, building <strong>scalable backends</strong> with <strong>Node.js</strong> & <strong>Express</strong>, and creating <strong>cross-platform apps</strong> with <strong>React Native</strong>.  
+I strive to write <strong>clean, efficient code</strong> and deliver <strong>seamless, reliable digital experiences</strong>.
 
 </div>
 
@@ -16,13 +18,15 @@ I’m a <strong>second-year B.Tech CSE student at Bennett University</strong> an
 
 ### 🛠️ Core Competencies
 
-- 🚀 Experienced in building **full-stack applications** using the **MERN Stack**, **Next.js**, and **REST APIs**  
-- 📱 Proficient in **React Native** for developing **high-performance, cross-platform apps**  
-- ☁️ Skilled in **cloud platforms**, **CI/CD pipelines**, **Docker**, and **Git-based version control**  
-- 💼 Open to **internships**, **freelance opportunities**, and **collaborative software projects**  
-- 🎯 Focused on building **scalable systems**, writing **maintainable code**, and contributing to impactful **Open Source**
+- 🚀 **Full-Stack Development:** MERN Stack, Next.js, RESTful APIs  
+- 📱 **Mobile App Dev:** High-performance apps using React Native  
+- ☁️ **Cloud & DevOps:** Deployment, Docker, CI/CD, Git versioning  
+- 💼 **Opportunities:** Open for internships, freelance & team collabs  
+- 🎯 **Philosophy:** Write scalable systems & contribute to Open Source
 
 ---
+
+
 
 
 <h2 align="center">⚡ Tech Stack I Work With</h2>
@@ -101,36 +105,42 @@ I’m a <strong>second-year B.Tech CSE student at Bennett University</strong> an
 
 ## 🔥 Featured Projects
 
-### 🏥 Prescripto – Simplifying Healthcare, Empowering Lives  
-🚀 Live Demo: [https://prescripto.vercel.app](https://prescripto-full-stack-frontend2.onrender.com/)  
-📖 *"Prescripto is dedicated to connecting patients and healthcare providers through innovation and technology, ensuring convenient access to care and seamless health record management."*  
-✔️ Book appointments and manage patient-doctor interactions online  
-✔️ Digitized prescription generation and health history tracking  
+<div style="font-size: 17px; line-height: 1.7;">
+
+### 🏥 <strong>Prescripto</strong> – <em>Simplifying Healthcare, Empowering Lives</em>  
+🚀 <strong>Live Demo:</strong> <a href="https://prescripto-full-stack-frontend2.onrender.com/" target="_blank">prescripto.onrender.com</a>  
+📖 <em>"Prescripto connects patients and healthcare providers through innovation and technology, ensuring easy access to care and seamless health record management."</em>
+
+✔️ Book appointments and manage patient–doctor interactions online  
+✔️ Digitized prescription generation & medical history tracking  
 ✔️ Role-based login for doctors and patients  
-✔️ Secure access to health records, real-time data handling  
-✔️ Tech Stack: MERN Stack, JWT Auth, Cloudinary, React Router
+✔️ Secure access with real-time health data handling  
+🛠️ <strong>Tech Stack:</strong> MERN Stack, JWT Auth, Cloudinary, React Router
 
 ---
 
-### 🚖 Zarva – Redefining Travel Safety  
-🌐 Live Application: [https://zarva.vercel.app](https://zarva-redefined-travel-safety.vercel.app/)  
+### 🚖 <strong>Zarva</strong> – <em>Redefining Travel Safety</em>  
+🌐 <strong>Live Application:</strong> <a href="https://zarva-redefined-travel-safety.vercel.app/" target="_blank">zarva.vercel.app</a>  
+
 ✔️ Ride booking with safer route suggestions  
 ✔️ Emergency voice commands powered by speech recognition  
-✔️ SOS system with location tracking and real-time alerts  
-✔️ Mobile-first design with secure authentication  
-✔️ Tech Stack: React.js, Vite, Appright, twillio, express,node js, typescript 
+✔️ SOS system with live location tracking and instant alerts  
+✔️ Fully responsive mobile-first design with secure login  
+🛠️ <strong>Tech Stack:</strong> React.js, Vite, Appwrite, Twilio, Express, Node.js, TypeScript
 
 ---
 
-### 🍎 Vision Clone – Apple Vision Pro Website UI Replica  
-🌟 Live Preview: [https://vision-clone.vercel.app](https://vision-clone.onrender.com/)  
-📱 A clean and modern **UI clone** of Apple’s Vision Pro product page  
-✔️ Fully responsive design with Apple-style fluid transitions  
-✔️ Parallax and scroll-based animations  
-✔️ Pixel-perfect UI inspired by Apple’s brand aesthetics  
-✔️ Tech Stack: React, Tailwind CSS, Framer Motion, GSAP
+### 🍎 <strong>Vision Clone</strong> – <em>Apple Vision Pro Website UI Replica</em>  
+🌟 <strong>Live Preview:</strong> <a href="https://vision-clone.onrender.com/" target="_blank">vision-clone.vercel.app</a>  
 
----
+📱 A clean, modern, and pixel-perfect UI clone of Apple’s Vision Pro product page  
+✔️ Fully responsive layout with Apple-style transitions  
+✔️ Smooth scroll animations and parallax effects  
+✔️ Designed with Apple’s design language in mind  
+🛠️ <strong>Tech Stack:</strong> React, Tailwind CSS, Framer Motion, GSAP
+
+</div>
+
 
 
 
