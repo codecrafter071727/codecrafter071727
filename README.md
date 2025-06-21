@@ -160,11 +160,16 @@ I’m a **second-year B.Tech CSE student at Bennett University** and a passionat
 ---
 
 <p align="center">
-  💻 <i>Building the future, one commit at a time</i> &nbsp;🚀  
+  🌟 <i>Crafting clean code, scalable systems, and creative solutions</i> 💡  
   <br/>
-  🌟 <i>Open for exciting freelance opportunities & tech collaborations</i>
+  🔍 <i>Curious by nature, collaborative by mindset</i> 🤝
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnshulX07/AnshulX07/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/AnshulX07/AnshulX07/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</p>
+
+<p align="center">
+  <b>“Great things are never done by one person. They're done by a team of people.”</b> – Steve Jobs  
+  <br/>🙌 Let's turn ideas into impact — together.
 </p>
