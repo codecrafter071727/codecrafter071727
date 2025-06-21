@@ -166,8 +166,9 @@ I’m a **second-year B.Tech CSE student at Bennett University** and a passionat
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnshulX07/AnshulX07/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7768E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Anshul+👋;Full-Stack+Web+%2B+App+Developer;Open+to+Freelance+%26+Internships;Let's+build+something+awesome+💻" alt="Typing SVG">
 </p>
+
 
 <p align="center">
   <b>“Great things are never done by one person. They're done by a team of people.”</b> – Steve Jobs  
