@@ -14,7 +14,6 @@ I’m a **second-year B.Tech CSE student at Bennett University** and a passionat
 - 💼 Open to **freelance opportunities**, **internships**, and **tech collaborations** in **software development** and **product engineering**
 - 🎯 Driven to create **scalable systems**, write **maintainable code**, and contribute to impactful **Open Source projects**
 
-
 <h2 align="center">⚡ Tech Stack I Work With</h2>
 
 <p align="center">
@@ -23,6 +22,7 @@ I’m a **second-year B.Tech CSE student at Bennett University** and a passionat
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -67,7 +67,11 @@ I’m a **second-year B.Tech CSE student at Bennett University** and a passionat
 
 <p align="center">
   <b>Tools & Utilities</b><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
@@ -81,6 +85,7 @@ I’m a **second-year B.Tech CSE student at Bennett University** and a passionat
   <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe%20lightroom&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
+
 
 
 # 📊 GitHub Stats:
