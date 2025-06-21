@@ -6,18 +6,21 @@
 
 ## 💫 About Me
 
-<div align="center" style="font-size: 18px; line-height: 1.8;">
-I’m a <span style="font-weight: bold; font-size: 18px;">second-year B.Tech CSE student at Bennett University</span> and a passionate <span style="font-weight: bold; font-size: 18px;">Full-Stack Developer</span> with expertise in building <span style="font-weight: bold; font-size: 18px;">robust web and mobile applications</span>. I specialize in developing <span style="font-weight: bold; font-size: 18px;">responsive frontends</span> using <span style="font-weight: bold; font-size: 18px;">React</span> and <span style="font-weight: bold; font-size: 18px;">Next.js</span>, <span style="font-weight: bold; font-size: 18px;">scalable backends</span> with <span style="font-weight: bold; font-size: 18px;">Node.js</span> and <span style="font-weight: bold; font-size: 18px;">Express</span>, and <span style="font-weight: bold; font-size: 18px;">cross-platform mobile apps</span> using <span style="font-weight: bold; font-size: 18px;">React Native</span>. I'm committed to writing <span style="font-weight: bold; font-size: 18px;">clean, efficient code</span> and delivering <span style="font-weight: bold; font-size: 18px;">reliable digital experiences</span>.
+<div style="font-size: 17px; line-height: 1.6;">
+
+I’m a <strong>second-year B.Tech CSE student at Bennett University</strong> and a passionate <strong>Full-Stack Developer</strong> with expertise in building <strong>robust web and mobile applications</strong>. I specialize in developing <strong>responsive frontends</strong> using <strong>React</strong> and <strong>Next.js</strong>, <strong>scalable backends</strong> with <strong>Node.js</strong> and <strong>Express</strong>, and <strong>cross-platform mobile apps</strong> using <strong>React Native</strong>. I'm committed to writing <strong>clean, efficient code</strong> and delivering <strong>reliable digital experiences</strong>.
 
 </div>
 
+---
+
 ### 🛠️ Core Competencies
 
-- 🚀 **Full-Stack Development:** MERN Stack, Next.js, RESTful APIs  
-- 📱 **Mobile App Dev:** High-performance apps using React Native  
-- ☁️ **Cloud & DevOps:** Deployment, Docker, CI/CD, Git versioning  
-- 💼 **Opportunities:** Open for internships, freelance & team collabs  
-- 🎯 **Philosophy:** Write scalable systems & contribute to Open Source
+- 🚀 Experienced in building **full-stack applications** using the **MERN Stack**, **Next.js**, and **REST APIs**  
+- 📱 Proficient in **React Native** for developing **high-performance, cross-platform apps**  
+- ☁️ Skilled in **cloud platforms**, **CI/CD pipelines**, **Docker**, and **Git-based version control**  
+- 💼 Open to **internships**, **freelance opportunities**, and **collaborative software projects**  
+- 🎯 Focused on building **scalable systems**, writing **maintainable code**, and contributing to impactful **Open Source**
 
 ---
 
