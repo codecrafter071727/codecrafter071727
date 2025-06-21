@@ -11,7 +11,7 @@
 I’m a <strong>second-year B.Tech CSE student at Bennett University</strong> and a passionate <strong>Full-Stack Developer</strong> with expertise in building <strong>robust web and mobile applications</strong>. I specialize in developing <strong>responsive frontends</strong> using <strong>React</strong> and <strong>Next.js</strong>, <strong>scalable backends</strong> with <strong>Node.js</strong> and <strong>Express</strong>, and <strong>cross-platform mobile apps</strong> using <strong>React Native</strong>. I'm committed to writing <strong>clean, efficient code</strong> and delivering <strong>reliable digital experiences</strong>.
 
 </div>
--
+---
 
 
 ### 🛠️ Core Competencies
