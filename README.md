@@ -91,6 +91,42 @@ I’m a **second-year B.Tech CSE student at Bennett University** and a passionat
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
 
+---
+
+## 🔥 Featured Projects
+
+### 🏥 Prescripto – Simplifying Healthcare, Empowering Lives  
+🚀 Live Demo: [https://prescripto.vercel.app](https://prescripto.vercel.app)  
+📖 *"Prescripto is dedicated to connecting patients and healthcare providers through innovation and technology, ensuring convenient access to care and seamless health record management."*  
+✔️ Book appointments and manage patient-doctor interactions online  
+✔️ Digitized prescription generation and health history tracking  
+✔️ Role-based login for doctors and patients  
+✔️ Secure access to health records, real-time data handling  
+✔️ Tech Stack: MERN Stack, JWT Auth, Cloudinary, React Router
+
+---
+
+### 🚖 Zarva – Redefining Travel Safety  
+🌐 Live Application: [https://zarva.vercel.app](https://zarva.vercel.app)  
+✔️ Ride booking with safer route suggestions  
+✔️ Emergency voice commands powered by speech recognition  
+✔️ SOS system with location tracking and real-time alerts  
+✔️ Mobile-first design with secure authentication  
+✔️ Tech Stack: React.js, Vite, FastAPI (Python), Firebase, Leaflet.js
+
+---
+
+### 🍎 Vision Clone – Apple Vision Pro Website UI Replica  
+🌟 Live Preview: [https://vision-clone.vercel.app](https://vision-clone.vercel.app)  
+📱 A clean and modern **UI clone** of Apple’s Vision Pro product page  
+✔️ Fully responsive design with Apple-style fluid transitions  
+✔️ Parallax and scroll-based animations  
+✔️ Pixel-perfect UI inspired by Apple’s brand aesthetics  
+✔️ Tech Stack: React, Tailwind CSS, Framer Motion, GSAP
+
+---
+
+
 
 
 # 📊 GitHub Stats:
@@ -101,8 +137,7 @@ I’m a **second-year B.Tech CSE student at Bennett University** and a passionat
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codecrafter071727&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codecrafter071727&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codecrafter071727&icon=0&color=0)](https://visitcount.itsvg.in)
